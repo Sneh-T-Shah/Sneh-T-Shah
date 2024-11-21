@@ -1,7 +1,3 @@
-Here’s a restructured format for your GitHub profile README, keeping the content but presenting it differently:
-
----
-
 # Hi, I'm **Sneh Shah**! 👋
 
 <p align="center">
@@ -69,7 +65,3 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 <p align="center">
   <i>“AI isn’t just about machines; it’s about solving problems and building the future together.”</i>
 </p>
-
----
-
-This design maintains a neat structure and flows well, while being distinct from the original format you referenced. Let me know if you’d like any tweaks! 🚀
