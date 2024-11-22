@@ -29,15 +29,15 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 
 ### 🔧 Skills and Technologies
 
-<p>
+  <p>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD64F?style=flat&logo=huggingface&logoColor=black" />
 </p>
-
 ---
 
 ### 🛠️ What I Can Help With
