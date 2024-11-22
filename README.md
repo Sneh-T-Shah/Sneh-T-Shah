@@ -3,6 +3,9 @@
 <p align="center">
   <a href="mailto:snehs5483@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/sneh-shah-b26a9825b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://drive.google.com/file/d/1RK4hci_m0x7lvhQgD7cKQZAMYyyEgUFp/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume">
+  </a>
 </p>
 
 ---
@@ -53,16 +56,6 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" alt="Sneh's GitHub Streak Stats" />
-</p>
-
----
-
-### 📄 My Resume
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1RK4hci_m0x7lvhQgD7cKQZAMYyyEgUFp/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume">
-  </a>
 </p>
 
 ---
