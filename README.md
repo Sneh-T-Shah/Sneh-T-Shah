@@ -57,6 +57,16 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 
 ---
 
+### 📄 My Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1RK4hci_m0x7lvhQgD7cKQZAMYyyEgUFp/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20Here-blue?style=for-the-badge" alt="Resume">
+  </a>
+</p>
+
+---
+
 ### ✉️ Let's Connect!
 
 - **Email**: [snehs5483@gmail.com](mailto:snehs5483@gmail.com)  
