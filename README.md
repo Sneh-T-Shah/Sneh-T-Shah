@@ -55,6 +55,9 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneh-T-Shah&show_icons=true&locale=en&layout=compact&theme=radical" alt="neeldevenshah" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" alt="Sneh's GitHub Streak Stats" />
 </p>
 
