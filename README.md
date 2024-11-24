@@ -55,16 +55,17 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneh-T-Shah&show_icons=true&locale=en&layout=compact&theme=radical" alt="neeldevenshah" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneh-T-Shah&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sneh-T-Shah" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" alt="Sneh's GitHub Streak Stats" />
 </p>
-## 🏆 GitHub Trophies
+---
+### 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sneh-T-Shah&theme=darkhub&no-frame=true&row=1&column=7" alt="neeldevenshah" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sneh-T-Shah&theme=darkhub&no-frame=true&row=1&column=7" alt="Sneh-T-Shah" />
   </a>
 </p>
 ---
