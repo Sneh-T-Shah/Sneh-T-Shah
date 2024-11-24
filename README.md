@@ -60,7 +60,13 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" alt="Sneh's GitHub Streak Stats" />
 </p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sneh-T-Shah&theme=darkhub&no-frame=true&row=1&column=7" alt="neeldevenshah" />
+  </a>
+</p>
 ---
 
 ### ✉️ Let's Connect!
