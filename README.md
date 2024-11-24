@@ -51,23 +51,42 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneh-T-Shah&show_icons=true&theme=dracula" alt="Sneh's GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sneh-T-Shah&show_icons=true&theme=dracula" 
+    alt="Sneh's GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneh-T-Shah&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sneh-T-Shah" />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneh-T-Shah&layout=compact&theme=radical" 
+    alt="Top Languages Used by Sneh" 
+  />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" alt="Sneh's GitHub Streak Stats" />
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" 
+    alt="GitHub Streak Stats for Sneh" 
+  />
 </p>
+
 ---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sneh-T-Shah&theme=darkhub&no-frame=true&row=1&column=7" alt="Sneh-T-Shah" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Sneh-T-Shah&theme=darkhub&no-frame=true&row=1&column=7" 
+      alt="GitHub Trophies for Sneh" 
+    />
   </a>
 </p>
+
 ---
 
 ### ✉️ Let's Connect!
