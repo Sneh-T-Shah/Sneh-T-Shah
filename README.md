@@ -59,14 +59,6 @@ I am a **3rd-year undergraduate student** with a keen interest in **Artificial I
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneh-T-Shah&layout=compact&theme=radical" 
-    alt="Top Languages Used by Sneh" 
-  />
-</p>
-
-<p align="center">
   <!-- GitHub Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Sneh-T-Shah&theme=dracula" 
