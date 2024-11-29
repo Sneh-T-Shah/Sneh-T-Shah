@@ -14,7 +14,7 @@
 I am a **3rd-year undergraduate student** with a keen interest in **Artificial Intelligence and Machine Learning**. My journey involves crafting innovative AI solutions and tackling real-world challenges using cutting-edge technologies.
 
 - 🏆 **Hackathon Achievements**:
-  - **Winner** of 2 hackathons 🥇  
+  - **Winner** of 3 hackathons 🥇  
   - Secured strong ranks in other competitions.  
 
 - **Expertise**:
